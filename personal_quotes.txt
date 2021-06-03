@@ -1,2 +1,6 @@
 Strength through struggle - Michael Choi
+<<<<<<< HEAD
 I like green - jay patel
+=======
+I like yellow- jay patel
+>>>>>>> personal_color
